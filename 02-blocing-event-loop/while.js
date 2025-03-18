@@ -4,12 +4,5 @@ setTimeout(() => (isRunning = false), 10);
 process.nextTick(() => console.log('NextTick'));
 
 while (isRunning) {
-    console.log('While lo1op is running');
+    console.log('While lo12op is running');
 }
-
-
-ads
-DataTransfersd
-a
-
-"asdasdasd"
